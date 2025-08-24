@@ -1,6 +1,6 @@
 # Moring
 
-![Moring Logo](https://raw.githubusercontent.com/MoringLab/MoringLab/refs/heads/main/moring_logo.png)
+<img src="https://raw.githubusercontent.com/MoringLab/MoringLab/refs/heads/main/moring_logo.png" alt="Moring Logo" width="200"/>
 
 ## 소개
 
