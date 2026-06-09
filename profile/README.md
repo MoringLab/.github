@@ -21,5 +21,5 @@ Moring은 자유롭고 진실된 소통을 추구합니다!
 * [Cering AI](https://cering.moring.co/) – AI 페르소나 (서비스 종료)
 ---
 
-더 많은 정보와 업데이트는 [MoringLab GitHub](https://github.com/MoringLab)에서 확인하실 수 있습니다.
+더 많은 정보와 업데이트는 [Luverse Discord](https://discord.gg/rx97hDmavB)에서 확인하실 수 있습니다.
 
